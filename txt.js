@@ -11,9 +11,8 @@ function w() {
 }
 const l = {
   name: "EnableStaging",
-  version: "3.0.0",
+  version: "69.420",
   description: "Experiments",
-  authors: [{ name: "dia \u2661", id: "696828906191454221" }],
   color: "#2F3136",
   onStart() {
     const o = () => {
