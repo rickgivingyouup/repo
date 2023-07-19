@@ -11,7 +11,7 @@ function w() {
 }
 const l = {
   name: "EnableStaging",
-  version: "69.420",
+  version: "1.0",
   description: "Experiments",
   color: "#2F3136",
   onStart() {
